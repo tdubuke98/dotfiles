@@ -123,3 +123,5 @@ eval "$(pyenv init - bash)"
 eval "$(pyenv virtualenv-init -)"
 
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
+source "$HOME/.bash_plugins/bash-powerline/bash-powerline.sh"
+
