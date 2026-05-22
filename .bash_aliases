@@ -1,4 +1,4 @@
-alias vi='nvim'
+#alias vi='nvim'
 alias gs='git status'
 alias h='cd $AUTOX_SRC'
 
